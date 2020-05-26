@@ -1,2 +1,2 @@
 # PersonalAPI
-I've made an API in node.js 
+This is my API written in node.js using MongoDB
